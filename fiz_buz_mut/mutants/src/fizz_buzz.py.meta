@@ -1,0 +1,22 @@
+{
+    "exit_code_by_key": {
+        "fizz_buzz.x_fizz_buzz__mutmut_1": null,
+        "fizz_buzz.x_fizz_buzz__mutmut_2": null,
+        "fizz_buzz.x_fizz_buzz__mutmut_3": null,
+        "fizz_buzz.x_fizz_buzz__mutmut_4": null,
+        "fizz_buzz.x_fizz_buzz__mutmut_5": null,
+        "fizz_buzz.x_fizz_buzz__mutmut_6": null,
+        "fizz_buzz.x_fizz_buzz__mutmut_7": null,
+        "fizz_buzz.x_fizz_buzz__mutmut_8": null,
+        "fizz_buzz.x_fizz_buzz__mutmut_9": null,
+        "fizz_buzz.x_fizz_buzz__mutmut_10": null,
+        "fizz_buzz.x_fizz_buzz__mutmut_11": null,
+        "fizz_buzz.x_fizz_buzz__mutmut_12": null,
+        "fizz_buzz.x_fizz_buzz__mutmut_13": null,
+        "fizz_buzz.x_fizz_buzz__mutmut_14": null,
+        "fizz_buzz.x_fizz_buzz__mutmut_15": null
+    },
+    "hash_by_function_name": {
+        "fizz_buzz": "b62123013949868a4a537fdf38533c9c"
+    }
+}
